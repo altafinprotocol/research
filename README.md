@@ -10,4 +10,4 @@
 
  ## License
 
- [MIT](LICENSE) © 2020 Altafin Inc.
+ © 2020 Altafin Inc.
