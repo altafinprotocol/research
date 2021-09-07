@@ -1,13 +1,11 @@
 # Research
 
- This repository is used mainly for code related to specific research questions. It is not meant as a general research repository for academic papers.
+This repository is used mainly for general research questions. It is not meant as a repository for academic papers.
 
- An exception to this is the `papers` folder, which contains the LaTeX or PDF files for various academic papers, including the Altafin White Paper.
+## Contribute
 
- ## Contribute
+This repository is open to any contributions. Our objective is to collaborate with the crypto community to move specific industry items forward. If you find spelling errors or have feedback or suggestions or comments, please feel free to open a pull request or issue.
 
- If you find spelling errors or have suggestions or comments, please feel free to open an issue.
+## License
 
- ## License
-
- © 2020 Altafin Inc.
+© 2020-2021 Altafin Inc.
