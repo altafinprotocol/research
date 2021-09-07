@@ -6,6 +6,8 @@ This repository is used mainly for general research questions. It is not meant a
 
 This repository is open to any contributions. Our objective is to collaborate with the crypto community to move specific industry items forward. If you find spelling errors or have feedback or suggestions or comments, please feel free to open a pull request or issue.
 
+[AltaFin Research](https://github.com/altafinprotocol/research)
+
 ## License
 
 © 2020-2021 Altafin Inc.
