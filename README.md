@@ -11,4 +11,3 @@ This repository is open to any contributions. Our objective is to collaborate wi
 ## License
 
 © 2020-2021 Altafin Inc.
-
